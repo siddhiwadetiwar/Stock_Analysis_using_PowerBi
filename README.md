@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/file/d/103fHRoxbMkQct9t1k3YH1O1f8hPzrI23/view?usp=sharing" height="60" width="60" >
+![image (4)](https://github.com/siddhiwadetiwar/Stock_Analysis_using_PowerBi/assets/125651663/91ee194d-8fb2-4827-9296-d7eb89df42c0)
+
 
 ![chal be](https://github.com/siddhiwadetiwar/Stock_Analysis_using_PowerBi/main/a1.png)
 
